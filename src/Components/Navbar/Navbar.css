@@ -1,0 +1,26 @@
+.nav{
+    width: 200px;
+    height: 100vh;
+    background-color: #140B37;
+}
+
+.nav p{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+    list-style: none;
+   
+}
+.nav p:hover{
+    margin-left: 4px;
+    height: 45px;
+    width: 90%;
+    border-radius: 5px;
+    background-color: rgb(87, 85, 85);
+}
+Link{
+    text-decoration: none;
+}
